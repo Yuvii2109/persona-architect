@@ -1,6 +1,4 @@
-# Welcome to your Lovable project
-
-## Project info
+# Project info
 
 **URL**: https://linkedin-persona-architect.vercel.app/
 
